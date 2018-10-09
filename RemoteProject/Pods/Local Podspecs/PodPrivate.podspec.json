@@ -1,0 +1,23 @@
+{
+  "name": "PodPrivate",
+  "version": "0.1.0",
+  "summary": "Description PodPrivate.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/davidecalo/PodPrivate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "davide.calo@nttdata.com": "Davide.Calo@nttdata.com"
+  },
+  "source": {
+    "git": "https://github.com/davidecalo/PodPrivate.git",
+    "tag": "0.1.0"
+  },
+  "swift_version": "3.2",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodPrivate/Classes/**/*"
+}

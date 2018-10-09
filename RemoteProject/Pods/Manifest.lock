@@ -1,0 +1,21 @@
+PODS:
+  - PodPrivate (0.1.0)
+
+DEPENDENCIES:
+  - PodPrivate (from `https://github.com/davidecalo/PodPrivate.git`)
+
+EXTERNAL SOURCES:
+  PodPrivate:
+    :git: https://github.com/davidecalo/PodPrivate.git
+
+CHECKOUT OPTIONS:
+  PodPrivate:
+    :commit: 5e91d4fc11b45269ec636952f65fef547a06d1a2
+    :git: https://github.com/davidecalo/PodPrivate.git
+
+SPEC CHECKSUMS:
+  PodPrivate: 7676b9f9e1018bc55e488c6504edb4c3800ba18b
+
+PODFILE CHECKSUM: 719fd486658cd40c0e99d9761c685068d15ff641
+
+COCOAPODS: 1.5.3
