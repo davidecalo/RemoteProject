@@ -13,6 +13,6 @@ public class PodPrivateTool{
 	}
 	
 	public func Test(){
-		print("loremipsumdolorsitamet")
+		print("loremipsumdolorsitamet 😎")
 	}
 }
